@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "ci_cd_practice",
+      "script": "npm",
+      "args": "start",
+      "watch": "../",
+      "log_date_format": "YYYY-MM-DD HH:mm Z"
+    }
+  ]
+}
